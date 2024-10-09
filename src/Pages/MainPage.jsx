@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from '../myComponents/Navbar'
-import WorkingCharts from '../myComponents/WorkingCharts'
+import WorkingCharts from '../myComponents/WorkingSection'
 
 const MainPage = () => {
   return (
